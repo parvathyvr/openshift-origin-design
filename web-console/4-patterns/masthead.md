@@ -41,4 +41,4 @@ The PatternFly [Masthead](http://www.patternfly.org/pattern-library/application-
 - Post MVP, the [Notification Drawer](http://openshift.github.io/openshift-origin-design/web-console/4-patterns/notifications) can be accessed through the bell icon in the masthead, which is directly to the left of the Launcher.
 
 ## Responsive Designs
-- For the MVP, the responsive design will not change. On smaller viewports, all masthead actions/options will drop into the hamburger menu.
+- For the MVP, the responsive design will not change. On smaller viewports, all masthead actions, except for the notification drawer will drop into the hamburger menu.
