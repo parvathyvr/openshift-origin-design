@@ -1,5 +1,5 @@
 # OpenShift Console designs
-This repository covers designs for the OpenShift Console, which is separated into sections below. Links to OCM designs are available as well.
+the repository covers designs for the OpenShift Console, which is separated into sections below. Links to OCM designs are available as well.
 
 - [Administrator Perspective](http://openshift.github.io/openshift-origin-design/admin-perspective/admin-perspective)
 - [Developer Perspective](http://openshift.github.io/openshift-origin-design/dev-perspective/dev-perspective)
